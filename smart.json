@@ -1,0 +1,11 @@
+{
+  "name": "flowchartjs",
+  "description": "Draws simple SVG flow chart diagrams from textual representation of the diagram.",
+  "homepage": "https://github.com/Sewdn/meteor-flowchartjs",
+  "author": "Pieter Soudan",
+  "version": "1.3.2",
+  "git": "https://github.com/Sewdn/meteor-flowchartjs.git",
+  "packages": {
+    "raphaeljs": "2.1.1"
+  }
+}
